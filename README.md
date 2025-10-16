@@ -19,5 +19,5 @@ My expertise lies in combining strong SQL and ETL development skills with a pass
 
 **🔗 Let’s Connect**
 
-💼 [LinkedIn](linkedin.com/in/jyothi-kiran-gowdar)
+💼 [LinkedIn](https://linkedin.com/in/jyothi-kiran-gowdar)
 📂 [GitHub Repositories](https://github.com/Jkgr18/Data-Analyst)
